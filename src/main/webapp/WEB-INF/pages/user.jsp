@@ -16,6 +16,7 @@
         密码：  ${password}
         </br>
         邮箱：  ${mail}
+
     </div>
 </head>
 <body>
