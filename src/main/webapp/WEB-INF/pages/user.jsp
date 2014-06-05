@@ -10,13 +10,13 @@
 <html>
 <head>
     <title>用户信息</title>
+
     <div>
         用户名：${username}
         </br>
-        密码：  ${password}
+        密码： ${password}
         </br>
-        邮箱：  ${mail}
-
+        邮箱： ${mail}
     </div>
 </head>
 <body>
